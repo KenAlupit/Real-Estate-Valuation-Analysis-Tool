@@ -1,2 +1,2 @@
-# Real-Estate-Valuation-Analysis-Tool
+# Real Estate Valuation Analysis Tool
 This program leverages Python and essential libraries like Pandas, Seaborn, Matplotlib, and Scikit-learn to conduct in-depth analysis of real estate valuations. Beginning with data import from the 'Real estate valuation data set.xlsx', it employs visualization techniques such as box plots and correlation heatmaps to uncover insights into various factors impacting property prices. The tool facilitates interactive feature selection for linear regression modeling, enabling users to predict house prices based on selected variables. It also supports user interaction for inputting values to predict property values, making it a versatile tool for real estate professionals and analysts alike.
